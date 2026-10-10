@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">抖音沉浸播放</string>
+    <string name="module_description">抖音沉浸式播放：播放视频时只保留视频画面，悬浮按钮可随时退出或进入。</string>
+</resources>
